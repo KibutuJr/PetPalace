@@ -130,7 +130,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📬 Contact
 
 - **Developer**: [Kibutu Jr](https://kibutujr.github.io/Portfolio-KibutuJr/)
-- **Email**: [kibutujrv@gmail.com](mailto:kibutu@gmail.com)
+- **Email**: [kibutujr@gmail.com](mailto:kibutu@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/fred-kibutu/)
 
 For any inquiries or feedback, feel free to reach out!
